@@ -55,4 +55,5 @@ TODO: Replace the image below with your own.
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
-TODO: Add your explanation
+TODO: 
+These results demonstrate the importance of both feature engineering and proper model tuning in building high-performance machine learning solutions.
